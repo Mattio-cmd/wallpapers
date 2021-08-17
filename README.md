@@ -21,3 +21,6 @@ Example of nord wallpaper:
 ### Where did i got this?
 Mainly i got them from the r/unixporn discord server but I also got some of themm from in-game screenshots of 
 some games. 
+
+
+
