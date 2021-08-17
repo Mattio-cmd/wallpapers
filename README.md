@@ -5,7 +5,7 @@ My wallpaper collection that i have gatered throught this past year.
 
 Well, mainly gruvbox wallpapers like this:
 
-![gruvbox_arch logo.png](https://github.com/Mattio-cmd/wallpapers/blob/main/gruvbox_arch%20logo.png)
+![gruvbox_arch logo.png](https://github.com/Mattio-cmd/wallpapers/blob/main/wallpapers/gruvbox_arch%20logo.png)
 
 but you can also find normal wallpapers that are colorscheme agnostic, like this:
 
