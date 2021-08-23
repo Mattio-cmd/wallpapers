@@ -11,6 +11,9 @@ but you can also find normal wallpapers that are colorscheme agnostic, like this
 
 ![Neon city (kind of).png](https://github.com/Mattio-cmd/wallpapers/blob/main/wallpapers/Neon%20city%20(kind%20of).png)
 
+### In this wallpaper pack i also included some of this 'themes'
+[x
+
 Appart from gruvbox and 'normal' wallpapers you cand also find some nord wallpapers, eventough i dislike nord
 colorscheme but i think that its way better than any solarized theme lol.
 
@@ -21,6 +24,4 @@ Example of nord wallpaper:
 ### Where did i got this?
 Mainly i got them from the r/unixporn discord server but I also got some of themm from in-game screenshots of 
 some games. 
-
-
 
