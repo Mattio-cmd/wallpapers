@@ -12,7 +12,7 @@ Well, mainly gruvbox wallpapers like this:
 
 but you can also find normal wallpapers that are colorscheme agnostic, like this:
 
-![Neon city (kind of).png](https://github.com/Mattio-cmd/wallpapers/blob/main/wallpapers/Neon%20city%20(kind%20of).png)
+![Neon city.png](https://github.com/Mattio-cmd/wallpapers/blob/main/wallpapers/Neon%20city%20(kind%20of).png)
 
 ### In this wallpaper pack i also included some of this 'themes'
 
